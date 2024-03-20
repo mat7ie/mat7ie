@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MaT7ie
-- I'm work and live in An Giang + Can Tho, Viet Nam
+- I'm work and live in An Giang and Can Tho, Viet Nam
 - I like gaming and basketball
 - I'm learning C++ and Java
 - I hate coding, sound weird but it's true :]
