@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MaT7ie
 - I'm work and live in An Giang and Can Tho, Viet Nam
 - I like gaming and basketball
-- Code: C, C++, C#, Java, JavaScript, Python.
+- Code: C, C++, C#, Java, JavaScript,Vue,  Python.
 - Languages: Vietnamese, English
 - I want to be an Unity developer.
 
