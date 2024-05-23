@@ -1,8 +1,9 @@
 - 👋 Hi, I’m MaT7ie
 - I'm work and live in An Giang and Can Tho, Viet Nam
 - I like gaming and basketball
-- I'm learning C++ and Java
-- I hate coding, sound weird but it's true :]
+- Code: C, C++, C#, Java, JavaScript, Python.
+- Languages: Vietnamese, English
+- I want to be an Unity developer.
 
 <!---
 mat7ie/mat7ie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
